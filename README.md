@@ -1,1 +1,1 @@
-This repository contains the sequences for the gull PolI reporters. Sequences for v1 and v2 plasmids can be found individually as .fasta files or together as .gb file.
+This repository contains the sequences for the gull PolI reporter. Sequences for the plasmid can be found as a .fasta file or as a .gb file.
